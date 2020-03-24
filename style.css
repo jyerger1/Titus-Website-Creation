@@ -1,0 +1,318 @@
+h1 {
+    font-size: 6.5rem;
+    line-height: 1.2;
+    font-weight: 500;
+    color: #032459;
+    
+
+}
+
+h2 {
+    color: #032459;
+    font-size: 20px;
+}
+
+h3 {
+    color: #032459;
+}
+
+h4 {
+    color: #032459;
+}
+
+
+nav {
+
+}
+
+div {
+    display: block;
+}
+
+p {
+    color: #032459;
+}
+
+
+body {
+    background-color: white;
+    color: #032459;;
+    background: #fff url(https://www.techtalentsouth.com/hubfs/TTS-Pattern-06-1900-Medium-Animated.svg) center top no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*  COME BACK TO THIS
+
+.background-container {
+    background: #fff url(https://www.techtalentsouth.com/hubfs/Copy%20of20TTS-Pattern-06-1900-Medium-Animated.svg) center top no-repeat;
+    background-size: cover !important;
+    margin: 0;
+    position: relative;
+    z-index: 1;
+    padding: 0 0 350px 0;
+}
+*/
+
+
+
+.body-container-wrapper {
+    font: normal 10px;
+    margin: 0;
+    padding: 0;
+    border-style: none;
+    border-color: black;
+    border-width: 2px;
+    
+    
+    
+    
+}
+
+.eduction-container {
+    text-align: center;
+    
+    
+}
+
+
+.education-box {
+    text-align: center;
+    padding: ;
+    box-sizing: border-box;
+    max-width: 14em;
+    margin: auto;
+    
+}
+
+.education-box h1 {
+    font-size: 70px;
+}
+
+
+.form-container {
+    
+    padding-right: 17em;
+    padding-left: 17em;
+
+}
+
+.form-box {
+    background: #032459;
+    box-shadow: 0px 3px 46px 6px rgba(2, 20, 48, 0.35);
+    padding: 52px 53px 54px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    z-index: 1000;
+    margin: auto;
+    margin-top: 12em;
+    
+
+}
+
+
+.form-button-container {
+    height: 5em;
+    width: 5em;
+    background-color: white;
+    padding-left: 5em;
+    max-width: 911px;
+    
+
+}
+
+
+.form-text h4 {
+    color: white;
+    font-size: 2.5rem;
+    line-height: 1.32;
+    font-weight: 500;
+    letter-spacing: .018rem;
+    text-align: center;
+    margin-bottom: 24px;
+    
+}
+
+
+.pipeline-text-container {
+    
+}
+
+
+.pipeline-text-box h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.pipeline-text-box {
+   text-align: center;
+    margin: auto;
+    padding-top: 4em;
+
+    
+
+
+}
+
+.pipeline-image-box {
+    text-align: center;
+    vertical-align: bottom;
+    max-width: 100%;
+    margin-top: 5em;
+    
+}
+
+.six-element-box {
+    padding: 40px;
+    position: relative;
+    z-index: 998;
+    text-align: center;
+    vertical-align: bottom;
+    margin: auto;
+   
+
+}
+
+/* GRADUATE ROW */
+
+.graduate-row {
+    padding: 3vw 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+.six-element-box h3 {
+    font-size: 35px;
+}
+
+.graduate-text {
+    width: 47%;
+    text-align: left;
+    padding-right: 4em;
+    max-width: 31em;
+}
+
+.graduate-row img {
+    width: 26em;
+    
+}
+
+/* GRADUATE ROW */
+
+
+
+/* HIGHER ED ROW */
+
+.higher-ed-row {
+    padding: 3vw 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.higher-ed-text {
+    width: 47%;
+    text-align: right;
+    max-width: 31em;
+    
+}
+
+.higher-ed-row img {
+    width: 26em;
+    padding-right: 4em;
+    
+}
+
+/* HIGHER ED ROW */
+
+
+/* WORKFORCE ROW */
+
+.workforce-row {
+    padding: 3vw 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.workforce-text {
+    width: 47%;
+    text-align: left;
+    padding-right: 4em;
+    max-width: 31em;
+}
+
+.workforce-row img {
+    width: 26em;
+    
+}
+
+
+/* WORKFORCE ROW */
+
+.expolore-partnership-container {
+    text-align: center;
+
+}
+
+
+
+
+
+
+.explore-partnership-button {
+    margin-top: 5em;
+}
+
+
+.expolore-partnership-box {
+    margin-top: 13em;
+
+}
+
+
+.explore-partnership-text {
+
+
+
+}
+
+
+.partners-container {
+    margin: auto;
+}
+
+.partners-box {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.partners-list li {
+    padding-left: 4em;
+}
+
+
+li {
+    display: inline;
+    list-style: none;
+}
+
+
+
+/* EXPLORE OUR PARTNERHSIP */
+
+
+
+
+/* EXPLORE OUR PARTNERHSIP */
